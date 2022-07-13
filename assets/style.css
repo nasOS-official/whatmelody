@@ -1,0 +1,18 @@
+html{ 
+    user-select: none;
+    background: -webkit-linear-gradient(90deg, rgb(0, 19, 255), rgb(86, 181, 184) 92%);
+    background: -moz-linear-gradient(90deg, rgb(0, 19, 255), rgb(86, 181, 184) 92%);
+    background: linear-gradient(90deg, rgb(0, 19, 255), rgb(86, 181, 184) 92%);
+}
+h1{
+    color: #fff;
+    font-family: sans-serif;
+}
+button {
+    border-radius: 6px;
+    background-color: #0068a0;
+    color: #ffffff;
+    border: none;
+    height: 40px;
+    font-size: 15px;
+   }

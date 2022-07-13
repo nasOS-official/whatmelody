@@ -1,0 +1,60 @@
+{
+    "levels": 3,
+    "1": {
+        "title": "Это тестовая страница",
+        "level": 1,
+        "vars": {
+            "one_btn": "Не жми",
+            "two_btn": "Нажми на меня",
+            "three_btn": "Зачем нажимать?"
+        },
+        "correct_btn": "two_btn",
+        "invalid": {
+            "1": "one_btn",
+            "2": "three_btn"
+        },
+        "invalid_message": "Вы проиграли!",
+        "valid_msg": "Вы Выйграли!",
+        "assets": {
+            "sound": "title4.mp3"
+        }
+    },
+    "2": {
+        "title": "Попробуй",
+        "level": 2,
+        "vars": {
+            "one_btn": "Катюша",
+            "two_btn": "Sonic green hill",
+            "three_btn": "Пласитинка 11"
+        },
+        "correct_btn": "one_btn",
+        "invalid": {
+            "1": "two_btn",
+            "2": "three_btn"
+        },
+        "invalid_message": "Вы проиграли!",
+        "valid_msg": "Вы Выйграли! УРА",
+        "assets": {
+            "sound": "title5.mp3"
+        }
+    },
+    "3": {
+        "title": "Сейчас сложно",
+        "level": 3,
+        "vars": {
+            "one_btn": "Я знаю",
+            "two_btn": "кто ты там",
+            "three_btn": "Чё устал"
+        },
+        "correct_btn": "three_btn",
+        "invalid": {
+            "1": "one_btn",
+            "2": "two_btn"
+        },
+        "invalid_message": "Ты проиграл!",
+        "valid_msg": "Вы крутой! УРА",
+        "assets": {
+            "sound": "title6.mp3"
+        }
+}
+}

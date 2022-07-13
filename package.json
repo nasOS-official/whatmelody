@@ -1,0 +1,17 @@
+{
+  "name": "mixwhatmelody",
+  "version": "0.0.1",
+  "description": "MixWhatMelody for MixOS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "nasOS",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@electron/remote": "^2.0.8",
+    "dialog": "^0.3.1",
+    "electron": "^19.0.8",
+    "fs": "^0.0.1-security"
+  }
+}
