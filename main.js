@@ -1,10 +1,10 @@
 /*
 
 
-    nasOS, hereby disclaims all copyright interest in the program “WhatMelody” (which deconstructs trees) written by James Hacker.
+    nasOS, hereby disclaims all copyright interest in the program “WhatMelody” (which deconstructs trees) written by nasOS.
 
     signature of Moe Ghoul 13 July 2022
-    Moe Ghoul, President of Vice
+    nasOS-official, President of nasOS
 
      This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
